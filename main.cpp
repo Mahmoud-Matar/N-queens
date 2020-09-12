@@ -2,6 +2,10 @@ include "NQueens.h"
 include "place.h"
 include "print.h"
 
+int x[200];
+static int c = 0;
+
+
 int main()
 {
     int i, n, j;
