@@ -1,4 +1,6 @@
 #include "NQueens.h"
+#include "place.h"
+#include "print.h"
 void NQueens(int k, int n)
 {
     int i;
